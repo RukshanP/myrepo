@@ -1,1 +1,4 @@
 hi git feature x branch ready to commiti
+
+testing global user name and email
+
